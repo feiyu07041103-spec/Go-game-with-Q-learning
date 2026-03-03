@@ -1,5 +1,6 @@
 This project implements a Q-learning based reinforcement learning agent to play simplified Go on a 5x5 board.
 It includes:
+
 1.AI Agent (Agent): Learns strategies using Q-learning.
 
 2.Random Player (RandomPlayer): Provides a baseline opponent for training and evaluation.
