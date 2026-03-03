@@ -11,3 +11,13 @@ It includes:
 
 5.Graphical User Interface (GoUI): Built with Tkinter, allowing interactive play against the AI.
 
+Features:
+✅ Q-learning training with reward propagation, experience pool, and replay.
+
+✅ Rule enforcement: Legal move detection, capture mechanics, suicide prevention.
+
+✅ Battle mode: AI vs AI or AI vs Random Player.
+
+✅ Interactive GUI: Keyboard controls (arrow keys to move cursor, space to place stone, P to pass, Enter to restart).
+
+✅ Model management: Save/load Q-tables, load champion models.
