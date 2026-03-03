@@ -12,6 +12,7 @@ It includes:
 5.Graphical User Interface (GoUI): Built with Tkinter, allowing interactive play against the AI.
 
 Features:
+
 ✅ Q-learning training with reward propagation, experience pool, and replay.
 
 ✅ Rule enforcement: Legal move detection, capture mechanics, suicide prevention.
